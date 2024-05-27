@@ -13,7 +13,7 @@ export default function Page() {
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
-          <div className=' text-6xl bg-blue-700  '>test</div>
+          <div className=' text-6xl bg-blue-700  '>test test</div>
           <div className="h-10 w-10  bg-black"></div>
           <div className="h-10 w-10 rounded-full bg-black"></div>
           <div className="h-10 w-10 border-b-[30px] border-l-[20px] border-r-[20px] border-black border-l-transparent border-r-transparent"></div>
